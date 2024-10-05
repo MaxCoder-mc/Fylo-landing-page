@@ -139,3 +139,10 @@
     margin-left: 8rem;
   }
 }
+
+@media (min-width: 1440px) {
+  .shape {
+    margin-bottom: -90px;
+    width: calc((3000 / 16) * 1rem);
+  }
+}
