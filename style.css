@@ -273,6 +273,9 @@ body {
 /* +++++++++++++++++++++++ */
 /* +++++ Testimonial +++++ */
 /* +++++++++++++++++++++++ */
+.shape {
+  margin: 0 auto;
+}
 
 .testimonial-section {
   background-color: var(--Light-Grayish-Blue);
